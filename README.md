@@ -11,10 +11,12 @@ Official PyTorch implementation of [***Variational Bayesian Personalized Ranking
 # bibtex 
 @article{11429075,
   author={Liu, Bin and Liu, Xiaohong and Luo, Qin and Shang, Ziqiao and Chu, Jielei and Ma, Lin and Li, Zhaoyu and Teng, Fei and Zhai, Guangtao and Li, Tianrui},
+  title={Variational Bayesian Personalized Ranking},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Variational Bayesian Personalized Ranking}, 
+  volume={48},
+  number={8},
+  pages={8936-8952},
   year={2026},
-  pages={1-16},
   doi={10.1109/TPAMI.2026.3672705}
   }
 ```
